@@ -1295,6 +1295,16 @@ const ambassadors: Ambassador[] = [
     children:
       'Zohaib is a Senior Postdoc Researcher at the <a href="https://cidgoh.ca/" target="_blank" >Center for Infectious Disease Genomics and One Health</a >. He\'s the developer of <a href="https://virusmvp.org" target="_blank" >VIRUS-MVP</a >, powered by a genomics workflow developed in Nextflow with nf-core modules.',
   },
+  {
+    name: "Hongo Koffi Anderson",
+    img: "",
+    country: "ci",
+    github: "bboy010",
+    linkedin: "koffi-anderson-hongo-b165a4170",
+    title: "Nextflow Ambassador",
+    children:
+      "Hongo is researcher and co-founder of LearnerWorld. He designs scalable, AI-driven genomic pipelines using Nextflow and Seqera AI to turn raw sequencing data into precision discoveries.",
+  },
   // Ambassador Program Staff
   {
     name: "Marcel Ribeiro-Dantas",
